@@ -3,7 +3,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.android1500.gpssetter/total.svg)]()
 [![GitHub stars](https://img.shields.io/github/stars/Android1500/GpsSetter)](https://github.com/Android1500/GpsSetter/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/Android1500/GpsSetter)](https://github.com/Android1500/GpsSetter/issues)
-[![GitHub license](https://img.shields.io/github/license/Android1500/GpsSetter)](https://github.com/Android1500/GpsSetter/blob/master/LICENSE)
+
 
 ![](https://github.com/Xposed-Modules-Repo/com.android1500.gpssetter/blob/main/banner.png) 
 
